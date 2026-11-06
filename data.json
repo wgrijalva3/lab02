@@ -1,0 +1,21 @@
+{
+    "chart_title": "Most Streamed Songs on Spotify (All Time)",
+    "source": "Wikipedia, List of Spotify streaming records (top 15, accessed October 2026)",
+    "data_points": [
+        {"label": "Blinding Lights",    "artist": "The Weeknd",                      "streams_billions": 5.640, "release_year": 2019},
+        {"label": "Shape of You",       "artist": "Ed Sheeran",                      "streams_billions": 5.148, "release_year": 2017},
+        {"label": "Sweater Weather",    "artist": "The Neighbourhood",               "streams_billions": 4.962, "release_year": 2012},
+        {"label": "Starboy",            "artist": "The Weeknd and Daft Punk",        "streams_billions": 4.818, "release_year": 2016},
+        {"label": "As It Was",          "artist": "Harry Styles",                    "streams_billions": 4.676, "release_year": 2022},
+        {"label": "One Dance",          "artist": "Drake, Wizkid, and Kyla",         "streams_billions": 4.522, "release_year": 2016},
+        {"label": "Sunflower",          "artist": "Post Malone and Swae Lee",        "streams_billions": 4.519, "release_year": 2018},
+        {"label": "Someone You Loved",  "artist": "Lewis Capaldi",                   "streams_billions": 4.471, "release_year": 2018},
+        {"label": "Perfect",            "artist": "Ed Sheeran",                      "streams_billions": 4.152, "release_year": 2017},
+        {"label": "Stay",               "artist": "The Kid Laroi and Justin Bieber", "streams_billions": 4.110, "release_year": 2021},
+        {"label": "Die With A Smile",   "artist": "Lady Gaga and Bruno Mars",        "streams_billions": 4.075, "release_year": 2024},
+        {"label": "I Wanna Be Yours",   "artist": "Arctic Monkeys",                  "streams_billions": 4.061, "release_year": 2013},
+        {"label": "Birds of a Feather", "artist": "Billie Eilish",                   "streams_billions": 4.050, "release_year": 2024},
+        {"label": "Yellow",             "artist": "Coldplay",                        "streams_billions": 4.041, "release_year": 2000},
+        {"label": "Believer",           "artist": "Imagine Dragons",                 "streams_billions": 3.991, "release_year": 2017}
+    ]
+}
